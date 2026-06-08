@@ -7,4 +7,4 @@ This folder contains my solutions to array-based DSA problems.
 - [x] Two Sum
 - [x] Majority Element II
 - [x] remove duplicates from sorted array 
-- [ ] Best Time to Buy and Sell Stock
+- [x] Maximum subarray
