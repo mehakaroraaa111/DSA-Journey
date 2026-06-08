@@ -6,5 +6,5 @@ This folder contains my solutions to array-based DSA problems.
 
 - [x] Two Sum
 - [x] Majority Element II
-- [ ] Missing Number
+- [ ] remove duplicates from sorted array 
 - [ ] Best Time to Buy and Sell Stock
