@@ -9,7 +9,7 @@ Welcome to my Data Structures and Algorithms repository.
 
 | Topic | Solved |
 |---------|---------|
-| Arrays | 4 |
+| Arrays | 5 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
