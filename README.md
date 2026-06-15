@@ -9,7 +9,7 @@ Welcome to my Data Structures and Algorithms repository.
 
 | Topic | Solved |
 |---------|---------|
-| Arrays | 6 |
+| Arrays | 7 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -26,7 +26,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] Maximum subarray
 - [x] Merge intervals
 - [x] spiral matrix
-
+- [x] set matrix zeroes
 ## Goal
 - Solve 500+ DSA Problems
 - Master Data Structures and Algorithms
