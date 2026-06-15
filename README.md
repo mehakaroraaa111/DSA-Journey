@@ -9,7 +9,7 @@ Welcome to my Data Structures and Algorithms repository.
 
 | Topic | Solved |
 |---------|---------|
-| Arrays | 5 |
+| Arrays | 6 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -22,6 +22,10 @@ Welcome to my Data Structures and Algorithms repository.
 ### Arrays
 - ✅ Two Sum
 - ✅ Majority Element II
+- [x] remove duplicates from sorted array 
+- [x] Maximum subarray
+- [x] Merge intervals
+- [x] spiral matrix
 
 ## Goal
 - Solve 500+ DSA Problems
