@@ -20,8 +20,8 @@ Welcome to my Data Structures and Algorithms repository.
 ## Current Problems Solved
 
 ### Arrays
-- ✅ Two Sum
-- ✅ Majority Element II
+- [x] Two Sum
+- [x] Majority Element II
 - [x] remove duplicates from sorted array 
 - [x] Maximum subarray
 - [x] Merge intervals
