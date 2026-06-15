@@ -9,3 +9,4 @@ This folder contains my solutions to array-based DSA problems.
 - [x] remove duplicates from sorted array 
 - [x] Maximum subarray
 - [x] Merge intervals
+- [x] Spiral matrix
