@@ -10,3 +10,4 @@ This folder contains my solutions to array-based DSA problems.
 - [x] Maximum subarray
 - [x] Merge intervals
 - [x] Spiral matrix
+- [x] set matrix zeroes
