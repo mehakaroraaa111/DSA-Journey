@@ -10,7 +10,7 @@ Welcome to my Data Structures and Algorithms repository.
 | Topic | Solved |
 |---------|---------|
 | Arrays | 8 |
-| Binary search | 2 |
+| Binary search | 5 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -29,6 +29,9 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] spiral matrix
 - [x] set matrix zeroes
 - [x] sort colors
+
+### Binary search:
+
 ## Goal
 - Solve 500+ DSA Problems
 - Master Data Structures and Algorithms
