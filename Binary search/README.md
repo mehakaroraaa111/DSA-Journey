@@ -7,4 +7,6 @@ This folder contains my solutions to Binary Search based DSA problems.
 
 - [x] Binary Search
 - [x] Search insert position
-- [ ] 
+- [x] search in sorted rotated arrayI
+- [x] search in sorted rotated arrayII
+- [x] minimum in rotated sorted array 
