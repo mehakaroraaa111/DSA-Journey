@@ -33,9 +33,9 @@ Welcome to my Data Structures and Algorithms repository.
 ### Binary search:
 - [x] Binary Search
 - [x] Search insert position
-- [x]  search in sorted rotated arrayI
-- [x]search in sorted rotated arrayII
-- [x]minimum in rotated sorted array
+- [x] Search in sorted rotated arrayI
+- [x] Search in sorted rotated arrayII
+- [x] Minimum in rotated sorted array
 
 
 ## Goal
