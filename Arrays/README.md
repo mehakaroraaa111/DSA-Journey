@@ -12,3 +12,4 @@ This folder contains my solutions to array-based DSA problems.
 - [x] Spiral matrix
 - [x] set matrix zeroes
 - [x] sort colors
+- [x] pascal triangle
