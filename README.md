@@ -39,7 +39,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] Minimum in rotated sorted array
 - [x] peak element
 - [x] single element in sorted array
-- [ ] 
+
 
 
 ## Goal
