@@ -9,7 +9,7 @@ Welcome to my Data Structures and Algorithms repository.
 
 | Topic | Solved |
 |---------|---------|
-| Arrays | 8 |
+| Arrays | 9 |
 | Binary search | 7 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -29,6 +29,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] spiral matrix
 - [x] set matrix zeroes
 - [x] sort colors
+- [x] pascal triangle
 
 ### Binary search:
 - [x] Binary Search
