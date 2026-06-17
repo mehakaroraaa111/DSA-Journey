@@ -10,7 +10,7 @@ Welcome to my Data Structures and Algorithms repository.
 | Topic | Solved |
 |---------|---------|
 | Arrays | 8 |
-| Binary search | 5 |
+| Binary search | 7 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -36,6 +36,9 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] Search in sorted rotated arrayI
 - [x] Search in sorted rotated arrayII
 - [x] Minimum in rotated sorted array
+- [x] peak element
+- [x] single element in sorted array
+- [ ] 
 
 
 ## Goal
