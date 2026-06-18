@@ -11,4 +11,6 @@ This folder contains my solutions to Binary Search based DSA problems.
 - [x] search in sorted rotated arrayII
 - [x] minimum in rotated sorted array
 - [x] peak element
-- [x] single element in sorted array 
+- [x] single element in sorted array
+- [x] koko eating bananas
+- [x] smallest divisor given threshold
