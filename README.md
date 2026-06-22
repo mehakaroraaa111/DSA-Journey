@@ -10,7 +10,7 @@ Welcome to my Data Structures and Algorithms repository.
 | Topic | Solved |
 |---------|---------|
 | Arrays | 9 |
-| Binary search | 12 |
+| Binary search | 13 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -44,6 +44,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] sorted in 2d matrix
 - [x] median of two sorted array
 - [x] min days to make m bouquets
+- [x] search in 2d matrix II
 
 
 
