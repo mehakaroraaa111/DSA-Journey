@@ -14,3 +14,4 @@ This folder contains my solutions to Binary Search based DSA problems.
 - [x] single element in sorted array
 - [x] koko eating bananas
 - [x] smallest divisor given threshold
+- [x] sorted in 2d matrix
