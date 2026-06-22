@@ -15,4 +15,5 @@ This folder contains my solutions to Binary Search based DSA problems.
 - [x] koko eating bananas
 - [x] smallest divisor given threshold
 - [x] sorted in 2d matrix
-- [x] median of two sorted array 
+- [x] median of two sorted array
+- [x] min days to make m bouquets
