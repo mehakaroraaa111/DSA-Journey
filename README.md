@@ -10,7 +10,7 @@ Welcome to my Data Structures and Algorithms repository.
 | Topic | Solved |
 |---------|---------|
 | Arrays | 9 |
-| Binary search | 9 |
+| Binary search | 10 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -41,6 +41,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] single element in sorted array
 - [x] koko eating bananas
 - [x] smallest divisor given threshold
+- [x] sorted in 2d matrix
 
 
 
