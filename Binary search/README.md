@@ -18,3 +18,4 @@ This folder contains my solutions to Binary Search based DSA problems.
 - [x] median of two sorted array
 - [x] min days to make m bouquets
 - [x] search in 2d matrix II
+- [x] Peak element II
