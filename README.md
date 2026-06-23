@@ -10,7 +10,7 @@ Welcome to my Data Structures and Algorithms repository.
 | Topic | Solved |
 |---------|---------|
 | Arrays | 9 |
-| Binary search | 13 |
+| Binary search | 14 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
