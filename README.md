@@ -11,7 +11,7 @@ Welcome to my Data Structures and Algorithms repository.
 |---------|---------|
 | Arrays | 9 |
 | Binary search | 14 |
-| Strings | 1 |
+| Strings | 2 |
 | Linked List | 0 |
 | Stack | 0 |
 | Queue | 0 |
@@ -46,6 +46,10 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] min days to make m bouquets
 - [x] search in 2d matrix II
 - [x] peak element II
+
+### Strings:
+- [x] Remove outermost parenthesis
+- [x] Reverse the given word 
 
 
 
