@@ -11,7 +11,7 @@ Welcome to my Data Structures and Algorithms repository.
 |---------|---------|
 | Arrays | 9 |
 | Binary search | 14 |
-| Strings | 3 |
+| Strings | 4 |
 | Linked List | 0 |
 | Stack | 0 |
 | Queue | 0 |
@@ -50,6 +50,8 @@ Welcome to my Data Structures and Algorithms repository.
 ### Strings:
 - [x] Remove outermost parenthesis
 - [x] Reverse the given word
+- [x] Lagrest odd number
+- [x] Longest common prefix 
 - [x] Largest odd number 
 
 
