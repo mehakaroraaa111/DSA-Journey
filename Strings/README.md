@@ -11,5 +11,6 @@ This folder contains my solutions to String based DSA problems.
 - [x] isomorphic strings
 - [x] rotate strings
 - [x] check if two strings are anagram of each other
+- [x] sort characters by frequency
 
 More problems will be added as I continue my DSA journey.
