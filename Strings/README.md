@@ -12,6 +12,7 @@ This folder contains my solutions to String based DSA problems.
 - [x] rotate strings
 - [x] check if two strings are anagram of each other
 - [x] sort characters by frequency
-- [x] maximum nesting depth of parenthiesis 
+- [x] maximum nesting depth of parenthiesis
+- [x] Roman to integer
 
 More problems will be added as I continue my DSA journey.
