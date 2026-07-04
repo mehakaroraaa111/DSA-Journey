@@ -11,7 +11,7 @@ Welcome to my Data Structures and Algorithms repository.
 |---------|---------|
 | Arrays | 9 |
 | Binary search | 14 |
-| Strings | 7 |
+| Strings | 8 |
 | Linked List | 0 |
 | Stack | 0 |
 | Queue | 0 |
@@ -54,6 +54,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] Longest common prefix 
 - [x] Largest odd number
 - [x] isomorphic strings
+- [x] sort characters by frequency 
 - [x] rotate strings
 - [x] check if two strings are anagram of each other
 
