@@ -11,7 +11,7 @@ Welcome to my Data Structures and Algorithms repository.
 |---------|---------|
 | Arrays | 9 |
 | Binary search | 14 |
-| Strings | 8 |
+| Strings | 9 |
 | Linked List | 0 |
 | Stack | 0 |
 | Queue | 0 |
@@ -57,6 +57,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] sort characters by frequency 
 - [x] rotate strings
 - [x] check if two strings are anagram of each other
+- [x] maximum nesting depth
 
 
 
