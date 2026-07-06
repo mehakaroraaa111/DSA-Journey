@@ -14,5 +14,6 @@ This folder contains my solutions to String based DSA problems.
 - [x] sort characters by frequency
 - [x] maximum nesting depth of parenthiesis
 - [x] Roman to integer
+- [x] strings to integer (atoi)
 
 More problems will be added as I continue my DSA journey.
