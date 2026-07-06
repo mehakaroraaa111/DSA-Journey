@@ -11,7 +11,7 @@ Welcome to my Data Structures and Algorithms repository.
 |---------|---------|
 | Arrays | 9 |
 | Binary search | 14 |
-| Strings | 10 |
+| Strings | 11 |
 | Linked List | 0 |
 | Stack | 0 |
 | Queue | 0 |
