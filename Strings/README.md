@@ -16,5 +16,6 @@ This folder contains my solutions to String based DSA problems.
 - [x] Roman to integer
 - [x] strings to integer (atoi)
 - [x] longest palindrome substring
+- [x] Sum of beauty of all strings
 
 More problems will be added as I continue my DSA journey.
