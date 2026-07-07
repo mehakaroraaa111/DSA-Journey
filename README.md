@@ -61,6 +61,7 @@ Welcome to my Data Structures and Algorithms repository.
 - [x] Roman to integer
 - [x] string to integer (atoi)
 - [x] Longest palindrome substring
+- [x] Sum of beauty of all substrings
 
 
 
